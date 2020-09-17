@@ -15,5 +15,5 @@ Projeto de Livraria no Micrsoft Access 2010
 ![Livraria7](https://user-images.githubusercontent.com/20029768/93512974-7fa1a080-f8fb-11ea-9e19-2c22acffb3b0.png)
 ## Temos aqui o Relatório das Editoras.
 ![Livraria4](https://user-images.githubusercontent.com/20029768/93512987-892b0880-f8fb-11ea-85ac-b7fa9dac00a4.png)
-### Baixe o aplicativo e veja outros recusos que ele tem.
+### Baixe o aplicativo e veja outros recursos que ele tem.
 
