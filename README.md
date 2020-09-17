@@ -5,7 +5,7 @@ Projeto de Livraria no Micrsoft Access 2010
 ![Livraria0](https://user-images.githubusercontent.com/20029768/93513356-1c643e00-f8fc-11ea-9728-d875427ed1db.png)
 ## Abaixo temos o Formulário Menu.
 ![Livraria1](https://user-images.githubusercontent.com/20029768/93512976-8203fa80-f8fb-11ea-90e4-f70c524dc311.png)
-## Clicando no Botão Cadastro de Clientes ao Formulário correspondente.
+## Clicando no Botão Cadastro de Clientes abrirá Formulário correspondente.
 ![Livraria3](https://user-images.githubusercontent.com/20029768/93512982-86c8ae80-f8fb-11ea-9487-e2a3038268dd.png)
 ## Aqui temos a parte de Consulta. Clicando em Livros de Autores vai abrir uma janela com o campo para digitar
 ## o nome do autor.
