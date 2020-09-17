@@ -1,7 +1,7 @@
 ## Projeto_Livraria_Access
 Projeto de Livraria no Micrsoft Access 2010
 ##
-## Aqui temos a Formulário inicial que dura 4 segundos e logo depois, abre o Formulário Menu.  
+## Aqui temos a Formulário inicial que dura 4 segundos e, logo depois, abre o Formulário Menu.  
 ![Livraria0](https://user-images.githubusercontent.com/20029768/93513356-1c643e00-f8fc-11ea-9728-d875427ed1db.png)
 ## Abaixo temos o Formulário Menu.
 ![Livraria1](https://user-images.githubusercontent.com/20029768/93512976-8203fa80-f8fb-11ea-90e4-f70c524dc311.png)
